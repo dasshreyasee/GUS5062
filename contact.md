@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📧 shreyasee.das@temple.edu  
+- 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
+- 📍 Based in Philadelphia, PA, USA  
