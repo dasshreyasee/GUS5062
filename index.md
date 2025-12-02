@@ -7,7 +7,7 @@ nav_order: 1
 
 Hi! I’m Shreyasee Das
 
-Use the links on the left (or top, depending on theme) to explore:
+Use the links below to explore:
 
 - [About Me](about.md)
 - [Projects](projects.md)
