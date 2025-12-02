@@ -9,7 +9,7 @@ baseurl: "/GUS5062"  # IMPORTANT: your repo name
 # ------------------------------------------------------------
 #   THEME
 # ------------------------------------------------------------
-remote_theme: alshedivat/al-folio
+remote_theme: pages-themes/cayman
 
 enable-scholar: false
 
