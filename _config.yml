@@ -1,6 +1,6 @@
 title: Fundamentals of GIS, Temple University
 description: Portfolio of Shreyasee Das
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pages-themes/minimal
 
 # Enable GitHub Pages plugin
 plugins:
