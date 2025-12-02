@@ -1,6 +1,6 @@
 title: Welcome to my Portfolio for Fundamentals of Geographic Information Systems
 description: 
-remote_theme: daattali/beautiful-jekyll
+remote_theme: alshedivat/al-folio
 
 # Enable GitHub Pages plugin
 plugins:
