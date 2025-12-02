@@ -11,6 +11,8 @@ baseurl: "/GUS5062"  # IMPORTANT: your repo name
 # ------------------------------------------------------------
 remote_theme: alshedivat/al-folio
 
+enable-scholar: false
+
 # al-folio theme options
 theme_color: "light"
 plugins:
