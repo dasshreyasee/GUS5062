@@ -4,13 +4,23 @@ layout: default
 nav_order: 1
 ---
 
+<style>
+/* Shift homepage content left under the theme header */
+.home-container {
+  margin-left: 50px;  /* adjust left shift */
+  max-width: 900px;   /* keeps layout readable */
+}
+</style>
+
+<div class="home-container">
+
 # Shreyasee Das
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
   <!-- LEFT: Map Instead of Profile Photo -->
   <div>
-    <img src="assets/Map_Lab1.png" alt="GIS Portfolio Map" width="300" style="border-radius: 6px;">
+    <img src="assets/img/portfolio-map.png" alt="GIS Portfolio Map" width="320" style="border-radius: 6px;">
   </div>
 
   <!-- RIGHT: Main Content -->
@@ -34,9 +44,12 @@ nav_order: 1
     <p>
       Each project page includes a map, a narrative summarizing the problem addressed,
       and a list of GIS tools used. These projects demonstrate skills in buffer analysis,
-      spatial joins, suitability modeling, multi-criteria evaluation, and geoprocessing workflows.
+      spatial joins, suitability modeling, multi-criteria evaluation, and geoprocessing
+      workflows.
     </p>
 
   </div>
+
+</div>
 
 </div>
