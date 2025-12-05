@@ -1,20 +1,32 @@
 ---
-title: Flint Water Crisis Project
+title: High-Risk Areas for Water Contamination in Flint, Michigan
 layout: default
 ---
 
-# Flint Water Crisis GIS Analysis
+# Identifying High-Risk Areas for Water Contamination  
+### Flint, Michigan GIS Analysis
 
-This project examines spatial patterns of contamination in Flint, Michigan, using GIS techniques taught in GUS 5062.
+## Project Narrative
+For this project, I analyzed drinking water contamination risks in Flint, Michigan by identifying areas where multiple environmental hazards overlap. Using buffer analysis and multi-criteria suitability techniques, I located neighborhoods within 0.3 miles of high-pollution TRI facilities, 0.3 miles of a river, and 0.2 miles of lead service lines—three factors that together heighten the probability of unsafe water exposure. The intersected results revealed two primary high-risk zones concentrated along Flint’s river corridors, where aging infrastructure and industrial activity converge geographically. These areas represent communities facing the greatest potential harm from polluted water, including risks from toxic releases, lead infiltration, and riverborne contaminants. This spatial pattern underscores how environmental, infrastructural, and industrial vulnerabilities compound to create serious public health risks for residents.
 
-<h2>Download file</h2>
-<a href="MasteryAssignment3_FlintWaterCrisis_GUS5062.pdf" target="_blank">Click to download the full PDF</a>
+## Download Full Report
+<a href="MasteryAssignment3_FlintWaterCrisis_GUS5062.pdf" target="_blank">Click to download the full PDF report</a>
 
-
-
-
-## Map
-
+## Map (Overview)
 <p align="center">
-  <img src="Flint_Overview_Map.png" alt="Map showing contamination in Flint, Michigan" width="850">
+  <img src="Flint_Overview_Map.png" alt="Overview map of high-risk water contamination areas in Flint, Michigan" width="900">
 </p>
+
+## Map (Detail View)
+<p align="center">
+  <img src="Flint_Detail_Map.png" alt="Detailed map of high-risk zones in Flint, Michigan" width="900">
+</p>
+
+## GIS Tools & Skills Used
+- Reprojected datasets using NAD 1983 StatePlane Michigan South  
+- Joined TRI pollution tables and selected facilities emitting >10,000 tons of water pollution  
+- Selected pure lead service lines based on attribute queries  
+- Clipped Michigan rivers to Flint boundaries for efficiency  
+- Created buffer zones (0.3 mi TRI & rivers; 0.2 mi lead lines)  
+- Intersected all three buffers to identify high-risk contamination zones  
+- Created overview and detail maps to visualize results  
