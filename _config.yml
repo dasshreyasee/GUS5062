@@ -8,11 +8,18 @@ plugins:
 github:
   is_project_page: false
 
-# Load custom CSS
+# Load custom CSS properly for Minimal theme
 include:
   - assets/css/custom.css
 
-# Navigation
+defaults:
+  - scope:
+      path: ""
+    values:
+      css:
+        - assets/css/custom.css
+
+# Navigation links — MUST include /GUS5062/ for project sites
 nav:
   - title: "Home"
     url: /GUS5062/
@@ -25,9 +32,3 @@ nav:
 
 color_scheme: light
 search_enabled: true
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      css: ["assets/css/custom.css"]
