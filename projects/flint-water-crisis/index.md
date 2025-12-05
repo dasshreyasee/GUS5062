@@ -6,11 +6,9 @@ layout: default
 # Identifying High-Risk Areas for Water Contamination  
 ### Flint, Michigan GIS Analysis
 
-## Project Narrative
+## The Project
 For this project, I analyzed drinking water contamination risks in Flint, Michigan by identifying areas where multiple environmental hazards overlap. Using buffer analysis and multi-criteria suitability techniques, I located neighborhoods within 0.3 miles of high-pollution TRI facilities, 0.3 miles of a river, and 0.2 miles of lead service lines—three factors that together heighten the probability of unsafe water exposure. The intersected results revealed two primary high-risk zones concentrated along Flint’s river corridors, where aging infrastructure and industrial activity converge geographically. These areas represent communities facing the greatest potential harm from polluted water, including risks from toxic releases, lead infiltration, and riverborne contaminants. This spatial pattern underscores how environmental, infrastructural, and industrial vulnerabilities compound to create serious public health risks for residents.
 
-## Download Full Report
-<a href="MasteryAssignment3_FlintWaterCrisis_GUS5062.pdf" target="_blank">Click to download the full PDF report</a>
 
 ## Map (Overview)
 <p align="center">
