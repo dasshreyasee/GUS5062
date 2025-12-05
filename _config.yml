@@ -13,7 +13,6 @@ github:
 include:
   - assets/css/custom.css
 
-
 # Set navigation order
 nav_order: 1
 
