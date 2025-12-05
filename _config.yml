@@ -23,5 +23,4 @@ nav:
 
 # Optional extras
 color_scheme: light
-logo: /assets/logo.png
-search_enabled: true
+search_enabled: false
