@@ -1,38 +1,27 @@
 title: GIS Portfolio
-description: 
-remote_theme: pages-themes/minimal 
+description:
+remote_theme: pages-themes/minimal
 
-# Enable GitHub Pages plugin
 plugins:
   - jekyll-remote-theme
 
- 
 github:
-  is_project_page: false 
+  is_project_page: false
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      stylesheets:
-        - assets/css/custom.css
+# Load custom CSS
+include:
+  - assets/css/custom.css
 
-
-# Set navigation order
-nav_order: 1
-
-# Add your navigation structure (optional override)
+# Navigation
 nav:
   - title: "Home"
-    url: /
+    url: /GUS5062/
   - title: "About Me"
-    url: /about
+    url: /GUS5062/about
   - title: "Projects"
-    url: /projects
+    url: /GUS5062/projects
   - title: "Contact"
-    url: /contact
+    url: /GUS5062/contact
 
-
-# Optional extras
 color_scheme: light
 search_enabled: true
