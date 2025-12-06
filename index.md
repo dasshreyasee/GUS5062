@@ -21,9 +21,9 @@ You can reach me at:
 - 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
 
 
-# Projects for GUS 5062
+## Projects for GUS 5062
 
-Here are some of my favorite projects we did in the Fundamentals of Geographic Information Systems. They all 
+Here are some of my favorite projects we did in the Fundamentals of Geographic Information Systems. I was particularly drawn to these projects because they highlight a core economic concept that is deeply relevant to environmental science: externalities, both positive and negative. Collectively, these projects explore topics ranging from environmental hazards to disparities in access to clean water and healthy foods.
 
 | Year      | Project                 | Description                                                                 | Link |
 |-----------|--------------------------|-----------------------------------------------------------------------------|------|
