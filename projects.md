@@ -6,12 +6,9 @@ nav_order: 2
 
 # Projects from GUS 5062
 
-Below is a selection of GIS projects I completed for Temple University's  
-**Fundamentals of Geographic Information Systems (GUS 5062)**.  
-These projects explore spatial data through the lens of environmental justice,  
-public health, and urban infrastructure—topics that connect naturally  
-to economic concepts such as externalities and spillover effects.
+Below is a selection of GIS projects I completed for Temple University's **Fundamentals of Geographic Information Systems (GUS 5062)**.  
 
+I was particularly drawn to these projects because they highlight a core economic concept that is deeply relevant to environmental science: externalities, both positive and negative. Collectively, these projects explore topics ranging from environmental hazards to disparities in access to clean water and healthy foods.
 ---
 
 ## Project List
