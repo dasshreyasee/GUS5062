@@ -23,12 +23,7 @@ defaults:
 nav:
   - title: "Home"
     url: "/GUS5062/"
-  - title: "About Me"
-    url: "/GUS5062/about.md"
-  - title: "Projects"
-    url: "/GUS5062/projects.md"
-  - title: "Contact"
-    url: "/GUS5062/contact.md"
+
 
 
 color_scheme: light
