@@ -1,17 +1,17 @@
-/* Add logo before site title */
+/* Add logo before the title */
 header h1 a::before {
   content: "";
   display: inline-block;
   background-image: url('/GUS5062/assets/Map_Lab1.png');
   background-size: contain;
   background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
+  width: 45px;
+  height: 45px;
   margin-right: 10px;
   vertical-align: middle;
 }
 
-/* Make title and logo align */
+/* Make text align properly with logo */
 header h1 a {
   display: inline-flex;
   align-items: center;
