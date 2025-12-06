@@ -6,6 +6,10 @@ nav_order: 2
 
 # Projects from GUS 5062
 
+<p align="center">
+  <img src="/GUS5062/assets/Map_Lab1.png" alt="Map" width="600">
+</p>
+
 Below is a selection of GIS projects I completed for Temple University's Fundamentals of Geographic Information Systems (GUS 5062). I was particularly drawn to these projects because they highlight a core economic concept that is deeply relevant to environmental science: externalities, both positive and negative. Collectively, these projects explore topics ranging from environmental hazards to disparities in access to clean water and nutrition. 
 
 
