@@ -21,31 +21,13 @@ You can reach me at:
 - 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
 
 
-### Header 3
+# Projects for GUS 5062
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Here are some of my favorite projects we did in the Fundamentals of Geographic Information Systems. They all 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+| Year      | Project                 | Description                                                                 | Link |
+|-----------|--------------------------|-----------------------------------------------------------------------------|------|
+| Fall 2025 | Landfills near Schools in LA    | Identifying Methane Landfills near Schools in Low-Income Areas in LA | [View Project](projects/la-landfills-schools/) |
+| Fall 2025 | Flint, MI Water Crisis   | Identifying High-Risk Areas for Water Contamination in Flint, Michigan     | [View Project](projects/flint-water-crisis/) |
+| Fall 2025 | Healthy Food Stores    | Identifying optimal locations for new healthy food stores in Philadelphia. |[View Project](projects/health-food-store) |
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
