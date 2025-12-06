@@ -22,13 +22,13 @@ defaults:
 # Navigation links — MUST include /GUS5062/ for project sites
 nav:
   - title: "Home"
-    url: /
+    url: /GUS562/
   - title: "About Me"
-    url: /about
+    url: /GUS562/about
   - title: "Projects"
-    url: /projects
+    url: /GUS562/projects
   - title: "Contact"
-    url: /contact
+    url: /GUS562/contact
 
 color_scheme: light
 search_enabled: true
