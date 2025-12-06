@@ -22,7 +22,13 @@ You can reach me at:
 - 📧 shreyasee.das@temple.edu  
 - 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
 
-
+<p style="margin-top: 20px;">
+  <a href="/GUS5062/projects/" 
+     style="background: #0366d6; color: white; padding: 10px 16px; 
+            border-radius: 6px; text-decoration: none; font-weight: 600;">
+     Explore Projects from GUS 5062 →
+  </a>
+</p>
 
 ## Projects for GUS 5062
 
