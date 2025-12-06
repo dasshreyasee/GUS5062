@@ -2,11 +2,6 @@
 layout: default
 ---
 
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Welcome
 
  Welcome to my GIS portfolio for Temple University's Fundamentals of GIS (GUS 5062). This site highlights selected GIS projects where I applied spatial analysis techniques to questions in environmental justice, urban infrastructure, and public health.
