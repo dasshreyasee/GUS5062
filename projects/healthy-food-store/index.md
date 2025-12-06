@@ -9,8 +9,6 @@ layout: default
 ## Project Narrative
 This project identifies the most suitable locations for developing a new healthy food store in Philadelphia using a multi-criteria site suitability analysis. I combined empowerment zones, transit accessibility, and proximity to existing healthy food sources to find areas that align with the city’s investment and public health goals. By buffering transit stations and intersecting those areas with empowerment zones, I identified where a store *should* be located, and then excluded all areas within 1,200 feet of farmers markets or Healthy Corner Stores. The final analysis revealed eight candidate areas, with one large contiguous zone standing out as the optimal location due to its size, accessibility, and distance from existing healthy food options. This project demonstrates how spatial analysis can support equitable urban planning and improve healthy food access in underserved neighborhoods.
 
-## Download Full Report
-<a href="Lab_Report_GUS_5062.pdf" target="_blank">Click to download the full PDF report</a>
 
 ## Map (Final Candidate Areas)
 <p align="center">
