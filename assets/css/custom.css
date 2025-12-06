@@ -11,6 +11,13 @@
   vertical-align: middle;
 }
 
+.site-title {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
 
 /* Remove the theme's built-in narrow centered layout */
 .page {
