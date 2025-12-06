@@ -14,9 +14,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Each project includes a map, a short narrative describing the spatial problem explored, and a summary of GIS tools used. These projects demonstrate skills in buffer analysis, spatial joins, suitability modeling, multi-criteria evaluation, and geoprocessing workflows. 
 ## About Me
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+You can reach me at:
+
+- 📧 shreyasee.das@temple.edu  
+- 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
+
 
 ### Header 3
 
