@@ -1,14 +1,23 @@
 ---
 title: Projects
-nav_order: 3
+layout: default
+nav_order: 2
 ---
 
-# Projects
+# Projects from GUS 5062
 
-Here are some of my favorite projects we did in our GUS 5062 class at Temple:
+Below is a selection of GIS projects I completed for Temple University's  
+**Fundamentals of Geographic Information Systems (GUS 5062)**.  
+These projects explore spatial data through the lens of environmental justice,  
+public health, and urban infrastructure—topics that connect naturally  
+to economic concepts such as externalities and spillover effects.
 
-| Year      | Project                 | Description                                                                 | Link |
-|-----------|--------------------------|-----------------------------------------------------------------------------|------|
-| Fall 2025 | Landfills near Schools in LA    | Identifying Methane Landfills near Schools in Low-Income Areas in LA | [View Project](projects/la-landfills-schools/) |
-| Fall 2025 | Flint, MI Water Crisis   | Identifying High-Risk Areas for Water Contamination in Flint, Michigan     | [View Project](projects/flint-water-crisis/) |
-| Fall 2025 | Healthy Food Stores    | Identifying Methane Landfills near Schools in Low-Income Areas in LA |[View Project](projects/health-food-store) |
+---
+
+## Project List
+
+| Year      | Project                         | Description                                                                 | Link |
+|-----------|----------------------------------|-----------------------------------------------------------------------------|------|
+| Fall 2025 | Landfills near Schools in LA     | Identifying methane landfills near schools in low-income areas of Los Angeles. | [View Project](la-landfills-schools/) |
+| Fall 2025 | Flint Water Crisis               | Mapping high-risk areas for water contamination in Flint, Michigan.          | [View Project](flint-water-crisis/) |
+| Fall 2025 | Healthy Food Store Suitability   | Identifying optimal locations for new healthy food stores in Philadelphia.   | [View Project](healthy-food-store/) |
