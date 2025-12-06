@@ -1,6 +1,5 @@
 title: Fundamentals of Geographic Information Systems
 description: Portfolio created by Shreyasee Das
-logo: /assets/Map_Lab1.png  
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
